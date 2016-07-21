@@ -1,0 +1,114 @@
+0    [main] INFO  Server  - Persistent store file: D:\moquette\mosBinary\bin\moquette_store.mapdb
+15   [main] INFO  MapDBPersistentStore  - Starting with fresh [D:\moquette\mosBinary\bin\moquette_store.mapdb] db file
+514  [main] INFO  FileAuthenticator  - Loading password file: D:\moquette\mosBinary\config\password_file.conf
+826  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+842  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+7456 [Thread-1] INFO  Server  - Server stopping...
+7690 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+7690 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+7737 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: D:\moquette\mosBinary\bin\moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [D:\moquette\mosBinary\bin\moquette_store.mapdb] db file
+241  [main] INFO  FileAuthenticator  - Loading password file: D:\moquette\mosBinary\config\password_file.conf
+623  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+632  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+0    [main] INFO  Server  - Persistent store file: D:\moquette\mosBinary\bin\moquette_store.mapdb
+10   [main] INFO  MapDBPersistentStore  - Starting with existing [D:\moquette\mosBinary\bin\moquette_store.mapdb] db file
+220  [main] INFO  FileAuthenticator  - Loading password file: D:\moquette\mosBinary\config\password_file.conf
+548  [main] INFO  NettyAcceptor  - Server binded host: 10.25.18.38, port: 1883
+556  [main] INFO  NettyAcceptor  - Server binded host: 10.25.18.38, port: 8888
+26684 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Create persistent session for clientID <baosight>
+26699 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <baosight>
+26709 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <baosight> with clean session true
+26719 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+26721 [nioEventLoopGroup-3-1] INFO  ClientSession  - <baosight> subscribed to topicFilter <mqtt/test> with QoS 0 - MOST_ONE
+80888 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Create persistent session for clientID <web_29>
+80889 [nioEventLoopGroup-3-2] INFO  ClientSession  - cleaning old saved subscriptions for client <web_29>
+80900 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Connected client ID <web_29> with clean session true
+80900 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - CONNECT processed
+80902 [nioEventLoopGroup-3-2] INFO  ClientSession  - <web_29> subscribed to topicFilter <mqtt/test> with QoS 0 - MOST_ONE
+93127 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <web_29> on topic <mqtt/test> with QoS MOST_ONE
+93132 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <web_29> on topic <mqtt/test>
+228654 [nioEventLoopGroup-3-3] INFO  ClientSession  - cleaning old saved subscriptions for client <baosight>
+228663 [nioEventLoopGroup-3-3] INFO  ProtocolProcessor  - Connected client ID <baosight> with clean session true
+228663 [nioEventLoopGroup-3-3] INFO  ProtocolProcessor  - CONNECT processed
+228860 [nioEventLoopGroup-3-3] INFO  ClientSession  - <baosight> subscribed to topicFilter <mqtt/test> with QoS 0 - MOST_ONE
+328098 [Thread-1] INFO  Server  - Server stopping...
+328331 [Thread-1] INFO  NettyAcceptor  - Msg read: 14, msg wrote: 26
+328332 [Thread-1] INFO  NettyAcceptor  - Bytes read: 3522, bytes wrote: 582
+328340 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: D:\moquette\mosBinary\bin\moquette_store.mapdb
+12   [main] INFO  MapDBPersistentStore  - Starting with existing [D:\moquette\mosBinary\bin\moquette_store.mapdb] db file
+233  [main] INFO  FileAuthenticator  - Loading password file: D:\moquette\mosBinary\config\password_file.conf
+574  [main] INFO  NettyAcceptor  - Server binded host: 10.25.18.38, port: 1883
+576  [main] INFO  NettyAcceptor  - Server binded host: 10.25.18.38, port: 8888
+39189 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <baosight>
+39205 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <baosight> with clean session true
+39205 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+39227 [nioEventLoopGroup-3-1] INFO  ClientSession  - <baosight> subscribed to topicFilter <mqtt> with QoS 0 - MOST_ONE
+157731 [Thread-1] INFO  Server  - Server stopping...
+157971 [Thread-1] INFO  NettyAcceptor  - Msg read: 8, msg wrote: 16
+157972 [Thread-1] INFO  NettyAcceptor  - Bytes read: 3420, bytes wrote: 574
+157980 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: D:\moquette\mosBinary\bin\moquette_store.mapdb
+15   [main] INFO  MapDBPersistentStore  - Starting with existing [D:\moquette\mosBinary\bin\moquette_store.mapdb] db file
+234  [main] INFO  FileAuthenticator  - Loading password file: D:\moquette\mosBinary\config\password_file.conf
+547  [main] INFO  NettyAcceptor  - Server binded host: 10.25.18.38, port: 1883
+547  [main] INFO  NettyAcceptor  - Server binded host: 10.25.18.38, port: 8888
+116004 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <baosight>
+116023 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <baosight> with clean session true
+116024 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+116149 [nioEventLoopGroup-3-1] INFO  ClientSession  - <baosight> subscribed to topicFilter <mqtt> with QoS 0 - MOST_ONE
+118564 [nioEventLoopGroup-3-1] INFO  ClientSession  - <baosight> subscribed to topicFilter <mqtt2> with QoS 0 - MOST_ONE
+165002 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Create persistent session for clientID <0a191226dfa657905fed>
+165002 [nioEventLoopGroup-3-2] INFO  ClientSession  - cleaning old saved subscriptions for client <0a191226dfa657905fed>
+165018 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Connected client ID <0a191226dfa657905fed> with clean session true
+165018 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - CONNECT processed
+165018 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <0a191226dfa657905fed> on topic <mqtt> with QoS LEAST_ONE
+165049 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <baosight> on topic <mqtt>
+165414 [nioEventLoopGroup-3-2] ERROR NettyMQTTHandler  - Ugly error on networking
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:357)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:898)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:242)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:724)
+174649 [nioEventLoopGroup-3-3] INFO  ProtocolProcessor  - Create persistent session for clientID <0a191226dfaf57905ff7>
+174665 [nioEventLoopGroup-3-3] INFO  ClientSession  - cleaning old saved subscriptions for client <0a191226dfaf57905ff7>
+174665 [nioEventLoopGroup-3-3] INFO  ProtocolProcessor  - Connected client ID <0a191226dfaf57905ff7> with clean session true
+174665 [nioEventLoopGroup-3-3] INFO  ProtocolProcessor  - CONNECT processed
+174665 [nioEventLoopGroup-3-3] INFO  ProtocolProcessor  - PUBLISH from clientID <0a191226dfaf57905ff7> on topic <mqtt2> with QoS LEAST_ONE
+174665 [nioEventLoopGroup-3-3] INFO  ProtocolProcessor  - send publish message to <baosight> on topic <mqtt2>
+175031 [nioEventLoopGroup-3-3] ERROR NettyMQTTHandler  - Ugly error on networking
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:357)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:898)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:242)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:724)
+208864 [Thread-1] INFO  Server  - Server stopping...
+209155 [Thread-1] INFO  NettyAcceptor  - Msg read: 12, msg wrote: 15
+209155 [Thread-1] INFO  NettyAcceptor  - Bytes read: 906, bytes wrote: 2113
+209155 [Thread-1] INFO  Server  - Server stopped
